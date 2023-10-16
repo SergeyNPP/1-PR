@@ -1,0 +1,15 @@
+E:\Programming 08.10.23\Practics\PR1\Zadacha2\bin\Debug\net6.0\Zadacha2.exe
+E:\Programming 08.10.23\Practics\PR1\Zadacha2\bin\Debug\net6.0\Zadacha2.deps.json
+E:\Programming 08.10.23\Practics\PR1\Zadacha2\bin\Debug\net6.0\Zadacha2.runtimeconfig.json
+E:\Programming 08.10.23\Practics\PR1\Zadacha2\bin\Debug\net6.0\Zadacha2.dll
+E:\Programming 08.10.23\Practics\PR1\Zadacha2\bin\Debug\net6.0\Zadacha2.pdb
+E:\Programming 08.10.23\Practics\PR1\Zadacha2\obj\Debug\net6.0\Zadacha2.csproj.AssemblyReference.cache
+E:\Programming 08.10.23\Practics\PR1\Zadacha2\obj\Debug\net6.0\Zadacha2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming 08.10.23\Practics\PR1\Zadacha2\obj\Debug\net6.0\Zadacha2.AssemblyInfoInputs.cache
+E:\Programming 08.10.23\Practics\PR1\Zadacha2\obj\Debug\net6.0\Zadacha2.AssemblyInfo.cs
+E:\Programming 08.10.23\Practics\PR1\Zadacha2\obj\Debug\net6.0\Zadacha2.csproj.CoreCompileInputs.cache
+E:\Programming 08.10.23\Practics\PR1\Zadacha2\obj\Debug\net6.0\Zadacha2.dll
+E:\Programming 08.10.23\Practics\PR1\Zadacha2\obj\Debug\net6.0\refint\Zadacha2.dll
+E:\Programming 08.10.23\Practics\PR1\Zadacha2\obj\Debug\net6.0\Zadacha2.pdb
+E:\Programming 08.10.23\Practics\PR1\Zadacha2\obj\Debug\net6.0\Zadacha2.genruntimeconfig.cache
+E:\Programming 08.10.23\Practics\PR1\Zadacha2\obj\Debug\net6.0\ref\Zadacha2.dll
